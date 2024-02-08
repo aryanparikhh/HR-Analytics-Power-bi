@@ -19,7 +19,7 @@ Employee Performance Dashboard:
 Dynamic visualizations will be created to showcase key performance indicators (KPIs) related to employee performance. Metrics such as productivity, attendance, and goal achievements will be presented in an interactive dashboard to facilitate quick assessments.
 
 Conclusion:
-The HR Analytics Power BI Project aims to be a cornerstone in strategic HR decision-making. By harnessing the capabilities of Power BI, this project endeavors to transform HR data into actionable insights, fostering an environment of continuous improvement, employee satisfaction, and ultimately, contributing to the overall success of the organization.
+The HR Analytics Power BI Project aims to be a cornerstone in strategic HR decision-making. By harnessing the capabilities of Power BI, this project endeavors to transform HR data into actionable insights, fostering an environment of continuous improvement, employee satisfaction, and ultimately, contributing to the overall success of the organization..
 
 
 
